@@ -11,7 +11,8 @@ details about me, contact information and past projects.
 
 ## Website
 https://hdezb.github.io/Brian-Hernandez-Portfolio/
-![deployed portfolio](https://user-images.githubusercontent.com/100795164/166080287-297c47fc-d08d-4e87-b947-ee81d9d3d0e8.PNG)
+![CapturePortfolio](https://user-images.githubusercontent.com/100795164/184225618-4867ad6b-fd83-4f60-9419-18e1ff63687d.PNG)
+
 
 ## Contribution
 Made by Brian Hernandez
