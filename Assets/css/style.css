@@ -249,3 +249,8 @@ header nav ul li a {
     background-size: cover;
     background-position-x: center;
 }
+#jobsearch {
+    background-image: url("../images/CaptureProject2.PNG");
+    background-size: cover;
+    background-position-x: left;
+}
